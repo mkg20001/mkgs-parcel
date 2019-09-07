@@ -1,0 +1,21 @@
+{
+  "name": "mkgs-parcel",
+  "version": "0.0.1",
+  "description": "mkg's default parcel configuration",
+  "main": "index.json",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parcel",
+    "parcel-config",
+    "config",
+    "mkg20001",
+    "mkg"
+  ],
+  "author": "Maciej Krüger <mkg20001@gmail.com>",
+  "license": "MIT"
+}
