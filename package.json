@@ -19,7 +19,7 @@
   "author": "Maciej Krüger <mkg20001@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^6.2.0"
+    "mocha": "^6.2.1"
   },
   "dependencies": {
     "@parcel/config-default": "^2.0.0-alpha.1",
