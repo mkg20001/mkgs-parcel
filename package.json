@@ -1,6 +1,6 @@
 {
   "name": "mkgs-parcel",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "mkg's default parcel configuration",
   "main": "index.json",
   "directories": {
